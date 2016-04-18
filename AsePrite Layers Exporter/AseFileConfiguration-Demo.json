@@ -1,0 +1,9 @@
+﻿[
+  {
+    "AseFilePath": "C:\\PATH_TO_PROJECT\\DemoFiles\\Input\\DemoFile.ase",
+    "AseExportPath": "C:\\PATH_TO_PROJECT\\DemoFiles\\Output\\",
+    "AseFileNameFormat": "{path}/{title}-{layer}.{extension}",
+    "AseExportFileName": "Demo.png", 
+	"AppCallAfterConversion": "ping www.google.com"
+  }
+]
