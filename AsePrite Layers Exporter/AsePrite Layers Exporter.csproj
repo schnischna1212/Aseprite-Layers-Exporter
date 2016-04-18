@@ -65,7 +65,6 @@
     <Content Include="DemoFiles\Output\Demo-BlueLayer.png" />
     <Content Include="DemoFiles\Output\Demo-BrownLayer.png" />
     <Content Include="DemoFiles\Output\Demo-RedLayer.png" />
-    <Content Include="Readme.txt" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
